@@ -19,3 +19,4 @@ echo “I did
 git status
 git status
 echo “This is
+eisai tost  
